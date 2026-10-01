@@ -6,3 +6,6 @@ The results highlight interconnected patterns involving factors such as income, 
 
 Full technical writeup is available here: https://epheva.github.io/toronto-neighbourhood-correlations/
 
+![Toronto neighbourhood clusters](image-4.png)
+
+![Correlation matrix](image-5.png)
